@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/my-app/static/js/main.be005a07.js",
+    "static/media/Career_logo.png": "/my-app/static/media/Career_logo.87856ce7ffce0ab6fd64.png",
+    "index.html": "/my-app/index.html",
+    "main.be005a07.js.map": "/my-app/static/js/main.be005a07.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.be005a07.js"
+  ]
+}
